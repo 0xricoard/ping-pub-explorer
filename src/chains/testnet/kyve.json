@@ -2,10 +2,10 @@
     "chain_name": "korellia",
     "coingecko": "",
     "api": [
-        "http://sg-cloud.muhammadri.co:1317/kyve"
+        "https://api-kyve.nodeist.net"
     ],
     "rpc": [
-        "http://sg-cloud.muhammadri.co:26657"
+        "https://rpc-kyve.nodeist.net"
     ],
     "coin_type": "118",
     "sdk_version": "0.45.6",
