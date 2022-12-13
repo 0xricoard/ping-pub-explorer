@@ -1,0 +1,20 @@
+{
+  "chain_name": "korellia",
+  "api": [
+    "http://sg-cloud.muhammadri.co:1317"
+  ],
+  "rpc": [
+    "http://sg-cloud.muhammadri.co:26657"
+  ],
+  "sdk_version": "0.45.6",
+  "addr_prefix": "nois",
+  "logo": "/logos/18A9445A-E448-4F93-8663-F73EE3BDF315.jpeg",
+  "assets": [
+    {
+      "symbol": "KYVE",
+      "base": "tkyve",
+      "exponent": 6,
+      "logo": "/logos/18A9445A-E448-4F93-8663-F73EE3BDF315.jpeg"
+    }
+  ]
+}
