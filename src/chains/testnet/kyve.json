@@ -1,7 +1,7 @@
 {
   "chain_name": "korellia",
   "api": [
-    "http://sg-cloud.muhammadri.co:1317"
+    "https://api-kyve.nodeist.net"
   ],
   "rpc": [
     "http://sg-cloud.muhammadri.co:26657"
