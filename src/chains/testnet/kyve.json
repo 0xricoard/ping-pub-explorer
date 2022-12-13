@@ -2,7 +2,7 @@
     "chain_name": "korellia",
     "coingecko": "",
     "api": [
-        "http://sg-cloud.muhammadri.co:1317"
+        "http://sg-cloud.muhammadri.co:1317/kyve"
     ],
     "rpc": [
         "http://sg-cloud.muhammadri.co:26657"
