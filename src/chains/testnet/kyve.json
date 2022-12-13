@@ -4,7 +4,7 @@
     "https://kyve.api.t.stavr.tech"
   ],
   "rpc": [
-    "http://sg-cloud.muhammadri.co:26657"
+    "https://rpc.korellia.kyve.network"
   ],
   "sdk_version": "0.45.6",
   "coin_type": "118",
