@@ -4,7 +4,7 @@
     "https://kyve.api.t.stavr.tech"
   ],
   "rpc": [
-    "https://rpc.korellia.kyve.network"
+    "https://rpc-kyve.nodeist.net"
   ],
   "sdk_version": "0.45.6",
   "coin_type": "118",
