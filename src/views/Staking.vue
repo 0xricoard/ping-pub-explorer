@@ -2,7 +2,7 @@
   <div>
     <b-card
       v-if="pingVals && pingVals.length > 0"
-      title="❤️ Stake with BimaSakti Validator ❤️"
+      title="❤️Stake with BimaSakti Validator❤️"
       class="overflow-auto"
     >
       <b-table
