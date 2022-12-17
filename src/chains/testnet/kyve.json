@@ -2,10 +2,10 @@
   "chainId": "korellia",
   "chain_name": "KYVE",
   "api": [
-    "https://kyve.api.t.stavr.tech"
+    "https://korellia.api.bimasaktivalidator.my.id"
   ],
   "rpc": [
-    "https://rpc-kyve.nodeist.net"
+    "https://rpc.korellia.kyve.network"
   ],
   "sdk_version": "0.45.6",
   "coin_type": "118",
