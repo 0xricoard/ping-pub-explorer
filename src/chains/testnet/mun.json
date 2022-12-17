@@ -1,0 +1,22 @@
+{
+  "chainId": "testmun",
+  "chain_name": "TESTMUN",
+  "api": [
+    "https://testmun.api.bimasaktivalidator.my.id"
+  ],
+  "rpc": [
+    "https://testmun.rpc.bimasaktivalidator.my.id"
+  ],
+  "sdk_version": "0.45.6",
+  "coin_type": "118",
+  "addr_prefix": "mun",
+  "logo": "/logos/mun.PNG",
+  "assets": [
+    {
+      "symbol": "MUN",
+      "base": "tmun",
+      "exponent": 6,
+      "logo": "/logos/mun.PNG"
+    }
+  ]
+}
