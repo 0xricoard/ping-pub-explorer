@@ -2,7 +2,7 @@
   "chainId": "testmun",
   "chain_name": "TESTMUN",
   "api": [
-    "http://testmun.api.bimasaktivalidator.my.id"
+    "https://testmun.api.bimasaktivalidator.my.id"
   ],
   "rpc": [
     "https://node1.mun.money"
