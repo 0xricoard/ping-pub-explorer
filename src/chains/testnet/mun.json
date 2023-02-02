@@ -5,7 +5,7 @@
     "https://testmun.api.bimasaktivalidator.my.id"
   ],
   "rpc": [
-    "https://testmun.rpc.bimasaktivalidator.my.id"
+    "https://node1.mun.money"
   ],
   "sdk_version": "0.45.6",
   "coin_type": "118",
