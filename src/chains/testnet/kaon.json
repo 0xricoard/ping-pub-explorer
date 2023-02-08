@@ -1,6 +1,6 @@
 {
     "chain_name": "kaon",
-    "chain_id": "kaon-1"
+    "chain_id": "kaon-1",
     "coingecko": "",
     "api": [
         "https://kaon.api.bimasaktivalidator.my.id"
