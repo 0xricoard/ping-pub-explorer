@@ -1,0 +1,24 @@
+{
+    "chain_name": "kaon",
+    "chain_id": "kaon-1"
+    "coingecko": "",
+    "api": [
+        "https://kaon.api.bimasaktivalidator.my.id"
+    ],
+    "rpc": [
+        "https://kaon.rpc.bimasaktivalidator.my.id"
+    ],
+    "coin_type": "118",
+    "sdk_version": "0.45.6",
+    "addr_prefix": "kyve",
+    "logo": "/logos/18A9445A-E448-4F93-8663-F73EE3BDF315.jpeg",
+    "assets": [
+        {
+            "base": "tkyve",
+            "symbol": "KYVE",
+            "exponent": "6",
+            "coingecko_id": "",
+            "logo": "/logos/18A9445A-E448-4F93-8663-F73EE3BDF315.jpeg"
+        }
+    ]
+}
