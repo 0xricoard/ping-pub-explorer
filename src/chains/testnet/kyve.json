@@ -7,7 +7,7 @@
   "rpc": [
     "https://rpc.korellia.kyve.network"
   ],
-  "sdk_version": "0.45.6",
+  "sdk_version": "0.46.8",
   "coin_type": "118",
   "addr_prefix": "kyve",
   "min_tx_fee": "250000",
